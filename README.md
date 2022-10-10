@@ -15,8 +15,7 @@ I am a Network Engineer with robust problem-solving skills proved experience in 
 *   ⚡  Love To Learn...
 
 
-<a href="https://www.github.com/asifitk" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/asifitk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -51,7 +50,7 @@ I am a Network Engineer with robust problem-solving skills proved experience in 
                 
                   
                   
-                <p align="left">
+   <p align="left">
                           
                       <a href="https://www.behance.com/asif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
                           
