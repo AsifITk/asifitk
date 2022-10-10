@@ -12,7 +12,10 @@ I am a Network Engineer with robust problem-solving skills proved experience in 
 *   🚀  I'm currently working on [quiz.app](http://githyb.com)
 *   🧠  I'm learning next.js
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Love To Learn...<a href="https://www.github.com/asifitk" target="_blank" rel="noreferrer"><img
+*   ⚡  Love To Learn...
+
+
+<a href="https://www.github.com/asifitk" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/asifitk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
